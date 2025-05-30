@@ -1,0 +1,14 @@
+{
+    "net_emissions_change": 7386386719.220119,
+    "net_emissions_change_pct": 0.8059646668279503,
+    "residential_emissions_change": 94199009.61449718,
+    "residential_emissions_change_pct": 0.04271933057018084,
+    "sequestration_change": 342.71875,
+    "sequestration_change_pct": 0.0011478735832497478,
+    "population_change": 453871.99999999953,
+    "population_change_pct": 0.19397665127522173,
+    "landuse_change": 20.0,
+    "landuse_change_pct": 0.02864508736751647,
+    "transportation_emissions_change": 7292187729.308615,
+    "transportation_emissions_change_pct": 1.0477455410977963
+}
